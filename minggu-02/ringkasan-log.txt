@@ -1,0 +1,8 @@
+=== Ringkasan Analisis Log 2026-09-26 20:35:44 === echo Total permintaan : 500
+--- Sebaran kode status ---
+    190 200
+    116 404
+     58 301
+     47 500
+     45 201
+     44 502
